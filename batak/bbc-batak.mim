@@ -1,0 +1,81 @@
+;; bcc-toba.mim -- Batak Toba input method
+;; Copyright (C) 2021 Ilham Nurwansah (ilhamnurwansah@gmail.com) 
+
+;; This file is part of the m17n database; a sub-part of the m17n
+;; library.
+
+;; The m17n library is free software; you can redistribute it and/or
+;; modify it under the terms of the GNU Lesser General Public License
+;; as published by the Free Software Foundation; either version 2.1 of
+;; the License, or (at your option) any later version.
+
+;; The m17n library is distributed in the hope that it will be useful,
+;; but WITHOUT ANY WARRANTY; without even the implied warranty of
+;; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+;; Lesser General Public License for more details.
+
+;; You should have received a copy of the GNU Lesser General Public
+;; License along with the m17n library; if not, write to the Free
+;; Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+;; Boston, MA 02110-1301, USA.
+
+(input-method bcc toba)
+
+(description "Batak Toba input method with Latin keyboard layout")
+
+(title "ᯅᯖᯂ᯲ ᯖᯬᯅ")
+
+(map
+	(starter
+ 		("a") ("b") ("c") ("d") ("e") ("f") ("g") ("h") ("i")
+		("j") ("k") ("l") ("m") ("n") ("o") ("p") ("r")	("s") 
+		("t") ("u") ("v") ("w") ("y") ("A") ("I") ("G")	("H") 
+		("J") ("N") ("U") ("W") ("[") (";") ("!") ("@")	("#") 
+		("$")
+		)	
+
+	(trans
+		("k" "ᯂ")
+		("g" "ᯎ")
+		("G" "ᯝ")
+		("c" "ᯡ")
+		("j" "ᯐ")
+		("J" "ᯠ")
+		("t" "ᯖ")
+		("T" "ᯗ")
+		("d" "ᯑ")
+		("n" "ᯉ")
+		("p" "ᯇ")
+		("b" "ᯅ")
+		("m" "ᯔ")
+		("y" "ᯛ")
+		("r" "ᯒ")
+		("l" "ᯞ")
+		("w" "ᯋ")
+		("W" "ᯍ")
+		("s" "ᯘ")
+		("h" "ᯂ")
+		("A" "ᯀ")
+		("I" "ᯤ")
+		("U" "ᯥ")
+		("i" "ᯪ")
+		("u" "ᯮ")
+		("[" "ᯩ")
+		("o" "ᯬ")
+		("N" "ᯰ")
+		("H" "ᯱ")
+		(";" "᯳")
+		("!" "᯼")
+		("@" "᯽")
+		("#" "᯾")
+		("$" "᯿")
+	)
+	(return
+		((Return)))
+	(backspace
+		((BackSpace) (undo)))
+)
+
+(state
+  (init
+    (trans)))
