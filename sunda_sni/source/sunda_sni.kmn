@@ -1,0 +1,13 @@
+﻿c sunda_sni generated from template at 2021-11-18 21:49:12
+c with name "sunda_sni"
+store(&NAME) 'sunda_sni'
+store(&COPYRIGHT) '© Yayasan Budaya Nusantara Digital'
+store(&VERSION) '10.0'
+store(&KEYBOARDVERSION) '1.0'
+store(&TARGETS) 'any'
+store(&VISUALKEYBOARD) 'sunda_sni.kvks'
+store(&LAYOUTFILE) 'sunda_sni.keyman-touch-layout'
+
+begin Unicode > use(main)
+
+group(main) using keys

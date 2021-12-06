@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\ilham\Documents\Keyman Developer\Projects\sunda_sni\sunda_sni.kpj</path>
+    <file ID="id_3011d2f9020f2be8eee3777979889fc3" Expanded="1"/>
+    <file ID="id_0cda77d86f5af40b2433490f752e921b" Expanded="1"/>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_0cda77d86f5af40b2433490f752e921b</ID>
+      <FullPath>C:\Users\ilham\Documents\Keyman Developer\Projects\sunda_sni\source\sunda_sni.kps</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\ilham\Documents\Keyman Developer\Projects\sunda_sni\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\ilham\Documents\Keyman Developer\Projects\sunda_sni\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\ilham\Documents\Keyman Developer\Projects\sunda_sni\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_bb9f8e4a4f6a94762b222fbc8f992167</ID>
+      <FullPath>C:\Users\ilham\Documents\Keyman Developer\Projects\sunda_sni\sunda_sni.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_3011d2f9020f2be8eee3777979889fc3</ID>
+      <FullPath>C:\Users\ilham\Documents\Keyman Developer\Projects\sunda_sni\sunda_sni.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Noto Sans Sundanese|9|   |0</DebugFont>
+        <CodeFont>Consolas|9|   |0</CodeFont>
+        <CharFont>Noto Sans Sundanese|9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_040b55ee6a8d303e7b7610cd8facd6c7</ID>
+      <FullPath>C:\Users\ilham\Documents\Keyman Developer\Projects\sunda_sni\source\..\build\sunda_sni.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_f9771049f5cd2006f29ac4cc1a7f84c5</ID>
+      <FullPath>C:\Users\ilham\Documents\Keyman Developer\Projects\sunda_sni\source\..\build\sunda_sni.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_7c1fa5bf9026ebd6ff845e7dacd122dd</ID>
+      <FullPath>C:\Users\ilham\Documents\Keyman Developer\Projects\sunda_sni\source\..\build\sunda_sni.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\ilham\Documents\Keyman Developer\Projects\sunda_sni\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\ilham\Documents\Keyman Developer\Projects\sunda_sni\source\readme.htm</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>sunda_sni</Filename>
+      <FileType></FileType>
+      <FullPath>C:\Users\ilham\Documents\Keyman Developer\Projects\sunda_sni</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>sunda_sni.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\ilham\Documents\Keyman Developer\Projects\sunda_sni\sunda_sni.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>sunda_sni.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\ilham\Documents\Keyman Developer\Projects\sunda_sni\sunda_sni.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>

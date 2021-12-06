@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>14.0.282.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Version URL="">1.0</Version>
+    <Name URL="">Sunda SNI</Name>
+    <Copyright URL="">©2021 Ilham Nurwansah</Copyright>
+  </Info>
+  <Files>
+    <File>
+      <Name>build\sunda_sni.kvk</Name>
+      <Description>File sunda_sni.kvk</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>build\sunda_sni.kmx</Name>
+      <Description>Keyboard Sunda SNI</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>source\readme.htm</Name>
+      <Description>File readme.htm</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>source\sunda_sni.keyman-touch-layout</Name>
+      <Description>File sunda_sni.keyman-touch-layout</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.keyman-touch-layout</FileType>
+    </File>
+    <File>
+      <Name>source\sunda_sni.kmn</Name>
+      <Description>File sunda_sni.kmn</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmn</FileType>
+    </File>
+    <File>
+      <Name>source\sunda_sni.kps</Name>
+      <Description>File sunda_sni.kps</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kps</FileType>
+    </File>
+    <File>
+      <Name>source\sunda_sni.kvks</Name>
+      <Description>File sunda_sni.kvks</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvks</FileType>
+    </File>
+    <File>
+      <Name>source\welcome.htm</Name>
+      <Description>File welcome.htm</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>..\..\..\..\Downloads\NotoSansSundanese-Regular.ttf</Name>
+      <Description>Font Noto Sans Sundanese Regular</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>Sunda SNI</Name>
+      <ID>sunda_sni</ID>
+      <Version>1.0</Version>
+      <OSKFont>..\..\..\..\Downloads\NotoSansSundanese-Regular.ttf</OSKFont>
+      <DisplayFont>..\..\..\..\Downloads\NotoSansSundanese-Regular.ttf</DisplayFont>
+      <Languages>
+        <Language ID="su-Sund">Sundanese (Sundanese)</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>
