@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Package>
   <System>
-    <KeymanDeveloperVersion>14.0.282.0</KeymanDeveloperVersion>
+    <KeymanDeveloperVersion>14.0.283.0</KeymanDeveloperVersion>
     <FileVersion>7.0</FileVersion>
   </System>
   <Options>
@@ -17,7 +17,7 @@
   </StartMenu>
   <Info>
     <Name URL="">sunda_sni</Name>
-    <Copyright URL="">© Yayasan Budaya Nusantara Digital</Copyright>
+    <Copyright URL="">© 2022 Ilham Nurwansah</Copyright>
     <Author URL="">Ilham Nurwansah</Author>
     <Version URL=""></Version>
   </Info>
@@ -52,12 +52,20 @@
       <CopyLocation>0</CopyLocation>
       <FileType>.htm</FileType>
     </File>
+    <File>
+      <Name>KairagaRegular.otf</Name>
+      <Description>Font Kairaga</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.otf</FileType>
+    </File>
   </Files>
   <Keyboards>
     <Keyboard>
-      <Name>sunda_sni</Name>
+      <Name>Sunda SNI</Name>
       <ID>sunda_sni</ID>
       <Version>1.0</Version>
+      <OSKFont>KairagaRegular.otf</OSKFont>
+      <DisplayFont>KairagaRegular.otf</DisplayFont>
       <Languages>
         <Language ID="su-Sund">Sundanese</Language>
       </Languages>

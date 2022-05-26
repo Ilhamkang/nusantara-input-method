@@ -16,7 +16,7 @@
       <FileType>.kps</FileType>
       <Details>
         <Name>sunda_sni</Name>
-        <Copyright>© Yayasan Budaya Nusantara Digital</Copyright>
+        <Copyright>© 2022 Ilham Nurwansah</Copyright>
       </Details>
     </File>
     <File>
@@ -97,6 +97,14 @@
       <Filepath>source\readme.htm</Filepath>
       <FileVersion></FileVersion>
       <FileType>.htm</FileType>
+      <ParentFileID>id_0cda77d86f5af40b2433490f752e921b</ParentFileID>
+    </File>
+    <File>
+      <ID>id_7b76ea3fdb2ea16b7a82fc3da07e1240</ID>
+      <Filename>KairagaRegular.otf</Filename>
+      <Filepath>source\KairagaRegular.otf</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.otf</FileType>
       <ParentFileID>id_0cda77d86f5af40b2433490f752e921b</ParentFileID>
     </File>
   </Files>

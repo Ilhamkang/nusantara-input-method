@@ -23,7 +23,7 @@ group(main) using keys
 + [SHIFT K_B] > 'ᮽ'
 + [SHIFT K_V] > 'ᮼ'
 + [K_V] > 'ᮗ'
-+ [K_C] > 'ᮔ'
++ [K_C] > 'ᮎ'
 + [K_X] > 'ᮟ'
 + [K_Z] > 'ᮐ'
 + [K_COLON] > '᮪'

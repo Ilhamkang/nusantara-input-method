@@ -1,7 +1,7 @@
 sunda_sni keyboard
 ==============
 
-© Yayasan Budaya Nusantara Digital
+© Ilham Nurwansah
 
 Version 1.0
 
