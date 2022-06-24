@@ -63,10 +63,18 @@
     <FileState>
       <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
       <FullPath>C:\Users\Lenovo\Documents\GitHub\nusantara-input-method\sunda_sni\source\welcome.htm</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
     </FileState>
     <FileState>
       <ID>id_8da344c4cea6f467013357fe099006f5</ID>
       <FullPath>C:\Users\Lenovo\Documents\GitHub\nusantara-input-method\sunda_sni\source\readme.htm</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
     </FileState>
     <FileState>
       <ID>id_7b76ea3fdb2ea16b7a82fc3da07e1240</ID>
@@ -76,27 +84,27 @@
   <MRU>
     <File>
       <ID>id_MRU0</ID>
-      <Filename>sunda_sni.kps</Filename>
-      <FileType>.kps</FileType>
-      <FullPath>C:\Users\Lenovo\Documents\GitHub\nusantara-input-method\sunda_sni\source\sunda_sni.kps</FullPath>
+      <Filename>readme.htm</Filename>
+      <FileType>.htm</FileType>
+      <FullPath>C:\Users\Lenovo\Documents\GitHub\nusantara-input-method\sunda_sni\source\readme.htm</FullPath>
     </File>
     <File>
       <ID>id_MRU1</ID>
-      <Filename>sunda_sni.kmn</Filename>
-      <FileType>.kmn</FileType>
-      <FullPath>C:\Users\Lenovo\Documents\GitHub\nusantara-input-method\sunda_sni\sunda_sni.kmn</FullPath>
-    </File>
-    <File>
-      <ID>id_MRU2</ID>
       <Filename>welcome.htm</Filename>
       <FileType>.htm</FileType>
       <FullPath>C:\Users\Lenovo\Documents\GitHub\nusantara-input-method\sunda_sni\source\welcome.htm</FullPath>
     </File>
     <File>
+      <ID>id_MRU2</ID>
+      <Filename>sunda_sni.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\Lenovo\Documents\GitHub\nusantara-input-method\sunda_sni\source\sunda_sni.kps</FullPath>
+    </File>
+    <File>
       <ID>id_MRU3</ID>
-      <Filename>readme.htm</Filename>
-      <FileType>.htm</FileType>
-      <FullPath>C:\Users\Lenovo\Documents\GitHub\nusantara-input-method\sunda_sni\source\readme.htm</FullPath>
+      <Filename>sunda_sni.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\Lenovo\Documents\GitHub\nusantara-input-method\sunda_sni\sunda_sni.kmn</FullPath>
     </File>
     <File>
       <ID>id_MRU4</ID>
