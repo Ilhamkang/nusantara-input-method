@@ -1,0 +1,67 @@
+{
+  "system": {
+    "keymanDeveloperVersion": "14.0.270.0",
+    "fileVersion": "7.0"
+  },
+  "options": {
+  },
+  "info": {
+    "version": {
+      "description": "1.0.2"
+    },
+    "name": {
+      "description": "Pegon"
+    },
+    "copyright": {
+      "description": "\u00A9 2021 Ilham Nurwansah"
+    }
+  },
+  "files": [
+    {
+      "name": "pegon.kmx",
+      "description": "Keyboard Pegon"
+    },
+    {
+      "name": "pegon.js",
+      "description": "File pegon.js"
+    },
+    {
+      "name": "pegon.kmn",
+      "description": "File pegon.kmn"
+    },
+    {
+      "name": "kmp.inf",
+      "description": "Package information"
+    },
+    {
+      "name": "kmp.json",
+      "description": "Package information (JSON)"
+    }
+  ],
+  "keyboards": [
+    {
+      "name": "Pegon",
+      "id": "pegon",
+      "version": "1.0.2",
+      "rtl": true,
+      "languages": [
+        {
+          "name": "Sundanese (Arabic)",
+          "id": "su-Arab"
+        },
+        {
+          "name": "Javanese (Arabic)",
+          "id": "jv-Arab"
+        },
+        {
+          "name": "Sasak (Arabic)",
+          "id": "sas-Arab"
+        },
+        {
+          "name": "Madurese (Arabic)",
+          "id": "mad-Arab"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[Package]
+Version=7.0
+ExecuteProgram=
+[StartMenu]
+Path=
+Create=0
+AddUninstallEntry=0
+[Info]
+Version="1.0.2",""
+Name="Pegon",""
+Copyright="© 2021 Ilham Nurwansah",""
+[Files]
+0="Keyboard Pegon","pegon.kmx",0
+1="File pegon.js","pegon.js",0
+2="File pegon.kmn","pegon.kmn",0
+3="Package information","kmp.inf",0
+4="Package information (JSON)","kmp.json",0
+[Keyboard0]
+Name=Pegon
+ID=pegon
+Version=1.0.2
+RTL=1
+Language0=su-Arab,Sundanese (Arabic)
+Language1=jv-Arab,Javanese (Arabic)
+Language2=sas-Arab,Sasak (Arabic)
+Language3=mad-Arab,Madurese (Arabic)
