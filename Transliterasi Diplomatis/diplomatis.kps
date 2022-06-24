@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>13.0.107.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+    <FollowKeyboardVersion/>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Name URL="">Transliterasi Diplomatis</Name>
+    <Copyright URL="">© 2020 Ilham Nurwansah</Copyright>
+    <Author URL="mailto:ilhamnurwansah@gmail.com">Ilham Nurwansah</Author>
+    <WebSite URL="https://kairaga.com">https://kairaga.com</WebSite>
+    <Version URL=""></Version>
+  </Info>
+  <Files>
+    <File>
+      <Name>diplomatis.kmn</Name>
+      <Description>File diplomatis.kmn</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmn</FileType>
+    </File>
+    <File>
+      <Name>diplomatis.ico</Name>
+      <Description>File diplomatis.ico</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ico</FileType>
+    </File>
+    <File>
+      <Name>build\diplomatis.kvk</Name>
+      <Description>File diplomatis.kvk</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>diplomatis.keyboard_info</Name>
+      <Description>File diplomatis.keyboard_info</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.keyboard_info</FileType>
+    </File>
+    <File>
+      <Name>build\diplomatis.kmx</Name>
+      <Description>Keyboard Transliterasi Diplomatis</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>Transliterasi Diplomatis</Name>
+      <ID>diplomatis</ID>
+      <Version>1.0</Version>
+      <Languages>
+        <Language ID="id-Latn">Indonesian (Latin)</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>

@@ -1,0 +1,85 @@
+<KeymanDeveloperProject>
+  <Options>
+    <BuildPath>$PROJECTPATH\build</BuildPath>
+    <CompilerWarningsAsErrors>True</CompilerWarningsAsErrors>
+    <WarnDeprecatedCode>True</WarnDeprecatedCode>
+    <CheckFilenameConventions>True</CheckFilenameConventions>
+    <ProjectType>keyboard</ProjectType>
+  </Options>
+  <Files>
+    <File>
+      <ID>id_39ff370544a94436bfc05f01848569bb</ID>
+      <Filename>diplomatis.kmn</Filename>
+      <Filepath>diplomatis.kmn</Filepath>
+      <FileVersion>1.0</FileVersion>
+      <FileType>.kmn</FileType>
+      <Details>
+        <Name>Transliterasi Diplomatis</Name>
+        <Copyright>&#xA9; 2020 Ilham Nurwansah</Copyright>
+        <Message>Keyboard untuk transliterasi naskah Sunda Kuna</Message>
+      </Details>
+    </File>
+    <File>
+      <ID>id_54187da3c3519e4a2cd598d1e613d774</ID>
+      <Filename>diplomatis.kps</Filename>
+      <Filepath>diplomatis.kps</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.kps</FileType>
+      <Details>
+        <Name>Transliterasi Diplomatis</Name>
+        <Copyright>&#xA9; 2020 Ilham Nurwansah</Copyright>
+      </Details>
+    </File>
+    <File>
+      <ID>id_8e52013842ca8297ed90b799229c61a4</ID>
+      <Filename>rejang.kmn</Filename>
+      <Filepath>..\Rejang\rejang.kmn</Filepath>
+      <FileVersion>1.0</FileVersion>
+      <FileType>.kmn</FileType>
+      <Details>
+        <Name>rejang</Name>
+        <Copyright>Ilham Nurwansah</Copyright>
+      </Details>
+    </File>
+    <File>
+      <ID>id_8d032daafc81a31fa5fd4284eeb96578</ID>
+      <Filename>diplomatis.ico</Filename>
+      <Filepath>diplomatis.ico</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.ico</FileType>
+      <ParentFileID>id_39ff370544a94436bfc05f01848569bb</ParentFileID>
+    </File>
+    <File>
+      <ID>id_1765337cbb8db2a79e5f8d6a2f3db274</ID>
+      <Filename>diplomatis.kvk</Filename>
+      <Filepath>build\diplomatis.kvk</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.kvk</FileType>
+      <ParentFileID>id_54187da3c3519e4a2cd598d1e613d774</ParentFileID>
+    </File>
+    <File>
+      <ID>id_a4b8090d2a30258f7ebd1c2004d83187</ID>
+      <Filename>diplomatis.keyboard_info</Filename>
+      <Filepath>diplomatis.keyboard_info</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.keyboard_info</FileType>
+      <ParentFileID>id_54187da3c3519e4a2cd598d1e613d774</ParentFileID>
+    </File>
+    <File>
+      <ID>id_c93173b85793f017b997a0c743a6686d</ID>
+      <Filename>diplomatis.kmx</Filename>
+      <Filepath>build\diplomatis.kmx</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.kmx</FileType>
+      <ParentFileID>id_54187da3c3519e4a2cd598d1e613d774</ParentFileID>
+    </File>
+    <File>
+      <ID>id_3c7448026e889453e5c8a26efcd4e551</ID>
+      <Filename>rejang.ico</Filename>
+      <Filepath>..\Rejang\rejang.ico</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.ico</FileType>
+      <ParentFileID>id_8e52013842ca8297ed90b799229c61a4</ParentFileID>
+    </File>
+  </Files>
+</KeymanDeveloperProject>

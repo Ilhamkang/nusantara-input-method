@@ -1,0 +1,118 @@
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>3</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\ilham\Desktop\diplomatis.kpj</path>
+    <file ID="id_54187da3c3519e4a2cd598d1e613d774" Expanded="1"/>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_39ff370544a94436bfc05f01848569bb</ID>
+      <FullPath>Z:\home\kairaga\Documents\Keyman Project\Transliterasi Diplomatis\diplomatis.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>MS Sans Serif|8|   |1</DebugFont>
+        <CodeFont>Consolas|9|   |0</CodeFont>
+        <CharFont>Consolas|9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_54187da3c3519e4a2cd598d1e613d774</ID>
+      <FullPath>Z:\home\kairaga\Documents\Keyman Project\Transliterasi Diplomatis\diplomatis.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_8e52013842ca8297ed90b799229c61a4</ID>
+      <FullPath>Z:\home\kairaga\Documents\Keyman Project\Rejang\rejang.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_8d032daafc81a31fa5fd4284eeb96578</ID>
+      <FullPath>Z:\home\kairaga\Documents\Keyman Project\Transliterasi Diplomatis\diplomatis.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_1765337cbb8db2a79e5f8d6a2f3db274</ID>
+      <FullPath>Z:\home\kairaga\Documents\Keyman Project\Transliterasi Diplomatis\build\diplomatis.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_a4b8090d2a30258f7ebd1c2004d83187</ID>
+      <FullPath>Z:\home\kairaga\Documents\Keyman Project\Transliterasi Diplomatis\diplomatis.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c93173b85793f017b997a0c743a6686d</ID>
+      <FullPath>Z:\home\kairaga\Documents\Keyman Project\Transliterasi Diplomatis\build\diplomatis.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_3c7448026e889453e5c8a26efcd4e551</ID>
+      <FullPath>Z:\home\kairaga\Documents\Keyman Project\Rejang\rejang.ico</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>rejang.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>Z:\home\kairaga\Documents\Keyman Project\Rejang\rejang.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>arabic_izza.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\users\kairaga\My Documents\Keyman Project\Projects\arabic_izza\source\arabic_izza.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>sundanese_latin.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\users\kairaga\My Documents\Keyman Project\sundanese_latin_2\source\sundanese_latin.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
+      <Filename>diplomatis.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\users\kairaga\My Documents\Keyman Project\Transliterasi Diplomatis\diplomatis.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU4</ID>
+      <Filename>Layout Standar Aksara Jawa KAJ I.kmp</Filename>
+      <FileType>.kmp</FileType>
+      <FullPath>C:\users\kairaga\Desktop\Kongres Aksara Jawa\Layout Standar Aksara Jawa KAJ I.kmp</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU5</ID>
+      <Filename>arabic_izza.kvks</Filename>
+      <FileType>.kvks</FileType>
+      <FullPath>C:\users\kairaga\My Documents\Keyman Project\Projects\arabic_izza\source\arabic_izza.kvks</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU6</ID>
+      <Filename>arabic_izza.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\users\kairaga\My Documents\Keyman Project\Projects\arabic_izza\source\arabic_izza.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU7</ID>
+      <Filename>diplomatis.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\ilham\Desktop\diplomatis.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU8</ID>
+      <Filename>diplomatis.keyboard_info</Filename>
+      <FileType>.keyboard_info</FileType>
+      <FullPath>C:\Users\ilham\Desktop\diplomatis.keyboard_info</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
