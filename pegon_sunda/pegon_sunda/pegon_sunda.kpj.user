@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\Lenovo\Documents\GitHub\nusantara-input-method\pegon_sunda\pegon_sunda\pegon_sunda.kpj</path>
+    <file ID="id_b57df12a5599b5bd9460f2456aea41d9" Expanded="1"/>
+    <file ID="id_41de9b4827df9161185f6fc6f6c06039" Expanded="1"/>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_d159611817d93227e0f866ee2bd9a44d</ID>
+      <FullPath>C:\Users\Lenovo\Documents\GitHub\nusantara-input-method\pegon_sunda\pegon_sunda\source\pegon_sunda.kps</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\Lenovo\Documents\GitHub\nusantara-input-method\pegon_sunda\pegon_sunda\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\Lenovo\Documents\GitHub\nusantara-input-method\pegon_sunda\pegon_sunda\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\Lenovo\Documents\GitHub\nusantara-input-method\pegon_sunda\pegon_sunda\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_e144b9734a6df54732f8fe739d8b4bdf</ID>
+      <FullPath>C:\Users\Lenovo\Documents\GitHub\nusantara-input-method\pegon_sunda\pegon_sunda\pegon_sunda.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_421436aede95107bac1bbaf6db01b931</ID>
+      <FullPath>C:\Users\Lenovo\Documents\GitHub\nusantara-input-method\pegon_sunda\pegon_sunda\source\..\build\pegon_sunda.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_7a04267ba313fd669c33f847a2e21e85</ID>
+      <FullPath>C:\Users\Lenovo\Documents\GitHub\nusantara-input-method\pegon_sunda\pegon_sunda\source\..\build\pegon_sunda.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_eb25678adef64e3621526ca465d338b5</ID>
+      <FullPath>C:\Users\Lenovo\Documents\GitHub\nusantara-input-method\pegon_sunda\pegon_sunda\source\..\build\pegon_sunda.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\Lenovo\Documents\GitHub\nusantara-input-method\pegon_sunda\pegon_sunda\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\Lenovo\Documents\GitHub\nusantara-input-method\pegon_sunda\pegon_sunda\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_b57df12a5599b5bd9460f2456aea41d9</ID>
+      <FullPath>C:\Users\Lenovo\Documents\GitHub\nusantara-input-method\pegon_sunda\pegon_sunda\source\pegon_sunda.kmn</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|11|   |0</CodeFont>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>pegon_sunda.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\Lenovo\Documents\GitHub\nusantara-input-method\pegon_sunda\pegon_sunda\source\pegon_sunda.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
